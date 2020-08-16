@@ -1,0 +1,45 @@
+https://alize.univ-avignon.fr/
+https://github.com/ALIZE-Speaker-Recognition
+https://github.com/ALIZE-Speaker-Recognition/android-alize-demo
+
+Y'a aussi cette approche (closed, API, remote based):
+https://dzone.com/articles/whos-speaking-speaker-recognition-with-watson-spee
+
+Ce code, très abouti:
+https://github.com/blabbertabber/blabbertabber
+Il utilise Watson.
+
+Celui-ci qui regarde les interruptions, je crois:
+https://github.com/marcossilva/convMod
+
+
+Produit proprio:
+https://voxsort.com/
+
+Watson (Microsft) API:
+https://dzone.com/articles/whos-speaking-speaker-recognition-with-watson-spee
+
+Google API:
+https://cloud.google.com/speech-to-text/docs/multiple-voices
+Elle serait Open-Source, voir:
+https://www.infoq.com/news/2018/11/Google-AI-Voice/
+
+
+En python:
+https://cloud.google.com/speech-to-text/docs/multiple-voices
+https://github.com/google/uis-rnn pytorch, etc.
+
+https://github.com/wq2012/SpectralCluster
+
+
+Papiers:
+https://www.infoq.com/news/2018/11/Google-AI-Voice/
+https://ai.googleblog.com/2019/08/joint-speech-recognition-and-speaker.html
+(sur l'API ggl, je pense) 
+
+
+
+
+Android developpement:
+
+
